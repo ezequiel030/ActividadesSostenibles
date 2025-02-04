@@ -2,13 +2,13 @@
 
 Índice
 
-![indice](img/)
+![indice](img/actividadesSostenibles.jpg)
 
 1. [Impacto ambiental del sector TI](impacto.md)
 
 2. [Estrategias de sostenibilidad en TI](estrategias.md)
 
-3. [Ejemplos y buenas prácticas](buenasPacticas)
+3. [Ejemplos y buenas prácticas](buenasPacticas.md)
 
 4. [Mapa conceptual](mapaConceptual.md)
 
