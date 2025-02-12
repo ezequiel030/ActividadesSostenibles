@@ -1,6 +1,8 @@
 # 🌟 Ejemplos y buenas prácticas
 Diversas empresas tecnológicas han implementado iniciativas sostenibles para minimizar su huella ecológica:
 
+![empresa sostenible](img/interior-empresa-sostenible.jpg)
+
 ---
 ### 🏢 Empresas tecnológicas comprometidas con la sostenibilidad
 
