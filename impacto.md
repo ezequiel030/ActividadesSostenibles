@@ -24,4 +24,4 @@ El reciclaje adecuado evita la contaminación del medio ambiente y permite recup
 
 La producción y eliminación de dispositivos electrónicos, así como el consumo de energía basado en combustibles fósiles, contribuyen a la emisión de gases de efecto invernadero.
 
-![contaminación](img/pexels-photo-19747800.webp
+![contaminación](img/contaminacion2.webp)
