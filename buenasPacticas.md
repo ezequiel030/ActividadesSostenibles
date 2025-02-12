@@ -2,7 +2,7 @@
 Diversas empresas tecnológicas han implementado iniciativas sostenibles para minimizar su huella ecológica:
 
 ---
-🏢 Empresas tecnológicas comprometidas con la sostenibilidad
+### 🏢 Empresas tecnológicas comprometidas con la sostenibilidad
 
 Google: Utiliza energía 100% renovable en sus centros de datos y emplea inteligencia artificial para optimizar el consumo energético.
 
@@ -14,7 +14,7 @@ AWS (Amazon Web Services): Ha invertido en energías renovables y en el diseño 
 Google, Microsoft y AWS son algunas de las empresas que han adoptado estrategias para reducir su impacto ambiental.
 
 ---
-###👩‍💻 Cómo pueden contribuir los profesionales de TI
+### 👩‍💻 Cómo pueden contribuir los profesionales de TI
 
 Los profesionales de TI también pueden contribuir a la sostenibilidad mediante:
 
