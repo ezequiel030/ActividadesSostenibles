@@ -1,8 +1,9 @@
-# Actividades sostenibles
+# 🌱 Sostenibilidad en el Sector TI
 
 ![indice](img/actividadesSostenibles.jpg)
 
-Índice
+## Índice
+---
 
 1. [Impacto ambiental del sector TI](impacto.md)
 
