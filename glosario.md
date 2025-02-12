@@ -1,4 +1,4 @@
-# Glosario
+![glosario](img/glosario.jpg)
 
 ### ⚡ Consumo energético
   Cantidad de energía utilizada por dispositivos tecnológicos y centros de datos. Reducirlo mejora la eficiencia y sostenibilidad.
