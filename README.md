@@ -1,6 +1,6 @@
 # 🌱 Sostenibilidad en el Sector TI
 
-![indice](img/aplicacion-de-la-tecnologia-en-la-gestion-ambiental-un-futuro-sostenible-1.jpg)
+![indice](img/D2.jpg)
 
 ## Índice
   1. [Impacto ambiental del sector TI](impacto.md)
