@@ -2,12 +2,14 @@
 
 Para reducir el impacto ambiental del sector TI, se pueden implementar diversas estrategias de sostenibilidad:
 
+---
 ### ☀️ Uso de energías renovables
 
 Empresas y centros de datos pueden utilizar energía solar, eólica u otras fuentes renovables para reducir la dependencia de combustibles fósiles.
 
 ¿Cuáles son las principales fuentes de energía renovable utilizadas en el sector TI?
 Las principales fuentes son la energía solar, la eólica y la hidroeléctrica, que permiten reducir las emisiones de carbono.
+---
 
 ### ⚙️ Optimización del hardware y virtualización
 
@@ -18,6 +20,7 @@ Se trata de mejorar el rendimiento y eficiencia de los dispositivos para reducir
 
 ¿Cómo puede la virtualización ayudar a reducir el impacto ambiental en TI?
 Permite reducir la cantidad de servidores físicos necesarios, optimizando el uso de recursos y disminuyendo el consumo eléctrico.
+---
 
 ### 🔄 Reciclaje y reutilización de equipos electrónicos
 
