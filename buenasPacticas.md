@@ -1,5 +1,4 @@
 # 🌟 Ejemplos y buenas prácticas
-
 Diversas empresas tecnológicas han implementado iniciativas sostenibles para minimizar su huella ecológica:
 
 ---
