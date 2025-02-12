@@ -25,3 +25,5 @@ Permite reducir la cantidad de servidores físicos necesarios, optimizando el us
 ### 🔄 Reciclaje y reutilización de equipos electrónicos
 
 Fomentar la reparación, reutilización y reciclaje adecuado de dispositivos electrónicos ayuda a reducir los desechos y el impacto ambiental.
+
+![reciclaje electrónico](img/reciclaElectronic.jpg)
