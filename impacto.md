@@ -1,4 +1,4 @@
-# 📌 Impacto ambiental del sector TI
+<p align="center"> # 📌 Impacto ambiental del sector TI </p>
 
 El sector de Tecnología de la Información (TI) tiene un impacto significativo en el medio ambiente debido a diversos factores:
 
