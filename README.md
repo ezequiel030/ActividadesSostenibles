@@ -12,7 +12,9 @@
   4. [Mapa conceptual](mapaConceptual.md)
 
   5. [Glosario](glosario.md)
+  
+  6. [Conclusión](conclusion.md) 
 
-  6. [Referencias](referencias.md)
+  7. [Referencias](referencias.md)
 
-  7. [Autores](autores.md)
+  8. [Autores](autores.md)
